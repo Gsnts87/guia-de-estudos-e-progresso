@@ -1,7 +1,7 @@
 # Repositório do Meu Guia de Estudos e Progresso
 Sejam bem vindos
 
-## Links de Estudos
+## Links de Estudo
 [DIO](https://web.dio.me/home)
 
 [Brasil Mais TI](http://www.brasilmaisdigital.org.br)
